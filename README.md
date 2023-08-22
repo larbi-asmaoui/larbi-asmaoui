@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Larbi Asmaoui</h1>
-<h3 align="center">A passionate fullsatck developer from Morocco</h3>
+<h3 align="center">A passionate fullstack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lar-asmaoui&label=Profile%20views&color=0e75b6&style=flat" alt="lar-asmaoui" /> </p>
 
