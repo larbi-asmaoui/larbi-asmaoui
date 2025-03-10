@@ -63,7 +63,7 @@
 <p align="left">
 <a href="https://github.com/larbi-asmaoui">
   <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=larbi-asmaoui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larbi-asmaoui&layout=compact&theme=react"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larbi-asmaoui&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
